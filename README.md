@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/-Taylor_Smith-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taylorgsmith/)](https://www.linkedin.com/in/taylorgsmith/)
-[![Gmail](https://img.shields.io/badge/-tgsmith61591@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:tgsmith61591@gmail.com)](mailto:tgsmith61591@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:taylor.smith@alkaline-ml.com)](mailto:taylor.smith@alkaline-ml.com)
 
 ![Taylor's github stats](https://github-readme-stats.vercel.app/api?username=tgsmith61591&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgsmith61591&layout=compact)
