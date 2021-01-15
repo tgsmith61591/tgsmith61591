@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm Taylor Smith, a Sr. ML Engineer at [Toyota Connected](https://toyotaconnected.net/). In my day-to-day, I work on training and deploying Tensorflow language models into our Kubernetes cluster to support dozens of microservices. In my spare time, I actively maintain [`pmdarima`](https://github.com/alkaline-ml/pmdarima), Python's leading equivalent to R's `auto.arima`.
+I'm Taylor Smith, Principal ML Engineer at [Toyota Connected](https://toyotaconnected.net/). In my day-to-day, I work on training and deploying Tensorflow language models into our Kubernetes cluster to support dozens of microservices. In my spare time, I actively maintain [`pmdarima`](https://github.com/alkaline-ml/pmdarima), Python's leading equivalent to R's `auto.arima`.
 
 Come work with me! Contribute to one of my [active issues](https://github.com/alkaline-ml/pmdarima/issues) or check out [careers](https://toyotaconnected.net/careers) at Toyota Connected.
 
